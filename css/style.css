@@ -1,0 +1,154 @@
+.section1{
+	padding: 15px 30px;
+}
+.section2{
+	background: #F1F1F1;
+	padding: 15px 30px;
+}
+p{
+	font-size: 24px;
+
+}
+/* =========CSS BORDERS ==========*/
+.dotted{
+	border: 3px dotted #00b894; 
+	border-width: 5px;
+	padding: 10px 30px;
+}
+.dashed{
+	border: 3px dashed #fd79a8; 
+	border-width: 5px; 
+	padding: 10px 30px;
+}
+.solid{
+	border: 3px solid #00b894; 
+	border-width: 5px;
+	padding: 10px 30px;
+}
+.double{
+	border: 3px double #5f27cd; 
+	border-width: 5px; 
+	padding: 10px 30px;
+}
+.groove{
+	border: 3px groove #feca57; 
+	border-width: 5px;
+	padding: 10px 30px;
+}
+.outset{
+	border: 3px outset #f368e0; 
+	border-width: 5px; 
+	padding: 10px 30px;
+}
+.special{
+	text-align: center;
+	border: 3px;
+	color: blue;
+	font-size: 30px;
+	text-transform: uppercase;
+	border-color: lime blue #00d2d3 #576574; 
+	border-width: 8px; 
+	padding: 20px;
+	border-radius: 15px;
+	border-top-style: double;
+	border-right-style: solid;
+	border-bottom-style: dashed;
+	border-left-style: dotted;
+}
+
+/*========= CSS Margin ==============*/
+.margin{
+	border: 8px double #48dbfb;
+  	margin-top: 80px;
+  	margin-bottom: 50px;
+  	margin-right: 240px;
+  	margin-left: 160px;
+  	padding: 15px;
+}
+
+/*====== CSS Passing =====*/
+.padding{
+	border: 12px groove lime;
+  	padding: 60px 100px;
+}
+.width{
+	border: 2px dashed #f368e0;
+	height: 400px;
+	padding: 10px;
+	width: 60%;
+}
+
+/*========== CSS Text ====*/
+.text{
+	color: red; 
+	text-align: center; 
+	background: #00d2d3; 
+	font-style: italic; 
+	padding: 10px;
+	text-transform: capitalize;
+	text-decoration: underline;
+}
+.text-spacing{
+	text-indent: 50px;
+	background: #222f3e;
+	padding: 20px 10px;
+	color: #fff;
+	letter-spacing: 12px;
+	text-align: left;
+}
+.shadow{
+	text-shadow: 4px 4px 5px aqua;
+	text-align: center;
+	background: #222f3e;
+	padding: 20px 10px;
+	color: #fff;
+}
+.word-spacing{
+	text-indent: 50px;
+	background: #222f3e;
+	padding: 20px 10px;
+	color: #fff;
+	word-spacing: 30px;
+	text-align: right;
+}
+
+/* ========== CSS Box Model ========*/
+.margin1{
+	border: 2px solid #8395a7;
+  	margin: 40px 80px 70px;
+  	text-align: center;
+  	background: #8395a7;
+  	padding-bottom: 30px;
+  	color: #fff;
+  	font-style: italic;
+}
+.border{
+	border: 2px solid #48dbfb;
+	margin: 40px 80px;
+	text-align: center;
+	background: #48dbfb;
+	padding-bottom: 30px;
+	color: #fff;
+}
+.padding1{
+	border: 2px solid #8395a7;
+	margin: 40px 80px;
+	text-align: center;
+	background: #8395a7;
+	color: #fff;
+	padding-bottom: 20px;
+}
+.content{
+	border: 2px dashed #F1F1F1;
+	margin: 40px 80px;
+	text-align: center;
+	background: #F1F1F1;
+	color: #000;
+	padding-bottom: 20px;
+}
+
+
+
+
+
+     
